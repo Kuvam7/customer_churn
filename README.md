@@ -26,7 +26,7 @@ Offers strategies to enhance customer engagement and loyalty
 
 Potential Reasons for Higher Churn Rates:
 •	Income Groups:
-Churn rates are higher among low-income (<$40k) and high-income ($120k+) customers. Low-income customers may leave due to financial strain, while high-income customers may feel they are not receiving enough value or benefits.
+Churn rates are higher among low-income (<$40k) and high-income ($120k+) customers. Low-income customers may leave due to financial strain, while high-income customers may feel they are not receiving enough value or benefits.  
 o	Low-Income Customers (<$40k): 
 	Offer budget-friendly plans or financial flexibility programs, such as payment extensions or rewards for consistent usage.
 	Provide educational resources on how to maximize card benefits without overextending finances.
