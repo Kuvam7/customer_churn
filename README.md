@@ -24,15 +24,18 @@ Identifies significant factors contributing to churn
 Provides recommendations for churn mitigation
 Offers strategies to enhance customer engagement and loyalty
 
-Potential Reasons for Higher Churn Rates:
+Potential Reasons for Higher Churn Rates:  
+
 •	Income Groups:
 Churn rates are higher among low-income (<$40k) and high-income ($120k+) customers. Low-income customers may leave due to financial strain, while high-income customers may feel they are not receiving enough value or benefits.  
-o	Low-Income Customers (<$40k): 
-	Offer budget-friendly plans or financial flexibility programs, such as payment extensions or rewards for consistent usage.
-	Provide educational resources on how to maximize card benefits without overextending finances.
-o	High-Income Customers ($120k+): 
-	Introduce premium benefits tailored to their lifestyle, such as concierge services, exclusive travel perks, or cashback on luxury purchases.
-	Use personalized marketing to highlight the value of staying with the service.
+  o	Low-Income Customers (<$40k):  
+    	Offer budget-friendly plans or financial flexibility programs, such as payment extensions or rewards for consistent         usage.  
+    	Provide educational resources on how to maximize card benefits without overextending finances.  
+
+  o	High-Income Customers ($120k+): 
+    	Introduce premium benefits tailored to their lifestyle, such as concierge services, exclusive travel perks, or       cashback on luxury purchases.
+    	Use personalized marketing to highlight the value of staying with the service.  
+    
 •	Age Groups:
 Customers in their early 30s, early 40s, and late 50s churn more. This could be due to significant life changes such as job transitions, family needs, or retirement planning.
 o	Develop lifecycle-based retention strategies addressing life transitions. For instance: 
